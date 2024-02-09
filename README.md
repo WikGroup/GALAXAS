@@ -85,7 +85,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `rrojasbo`, `NuSTAR-Code`, `twitter_handle`, `randall-rojas-bolivar`, `rrojasbo94@gmail.com_client`, `rrojasbo94@gmail.com`, `Galaxy Cluster Analysis Tools`, `project_description` -->
 
