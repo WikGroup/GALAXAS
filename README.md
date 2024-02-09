@@ -25,7 +25,7 @@
 <!--[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]-->
-[![MIT License][license-shield]][https://github.com/WikGroup/NuSTAR-Code/tree/main?tab=MIT-1-ov-file#readme]
+[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
