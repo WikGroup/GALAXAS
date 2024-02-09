@@ -33,8 +33,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/WikGroup/NuSTAR-Code/assets/38116794/51b5a4c6-9d8f-4430-bb9c-45b923965f8b">
-    <img src="grouplogo.png" alt="Logo" width="80" height="80">
+  
+    <img src="grouplogo.png" alt="Logo" width="100" height="100">
 
   </a>
 
