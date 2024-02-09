@@ -34,7 +34,7 @@
 <br />
 <div align="center">
   
-    <img src="grouplogo.png" alt="Logo" width="100" height="100">
+    <img src="grouplogo.png"  width="250" height="250">
 
   </a>
 
