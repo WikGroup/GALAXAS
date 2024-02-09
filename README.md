@@ -39,7 +39,7 @@
 <h3 align="center">Galaxy Cluster Analysis Tools</h3>
 
   <p align="center">
-    A suite of tools that can be used to analyze NuSTAR galaxy cluster data
+    A suite of tools that can be used to analyze NuSTAR galaxy cluster data.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
