@@ -34,7 +34,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="grouplogo.png" alt="Logo" width="150" height="150">
+  <img src="grouplogo.png" alt="Logo" width="175" height="150">
   </a>
 
 <h3 align="center">Galaxy Cluster Analysis Tools</h3>
