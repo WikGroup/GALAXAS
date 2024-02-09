@@ -33,8 +33,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/WikGroup/NuSTAR-Code/assets/38116794/a53eb62a-ae68-4b4f-aa05-250a3c444608">
+  <a href="https://github.com/WikGroup/NuSTAR-Code/assets/38116794/51b5a4c6-9d8f-4430-bb9c-45b923965f8b">
     
+
   </a>
 
 <h3 align="center">Galaxy Cluster Analysis Tools</h3>
