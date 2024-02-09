@@ -33,7 +33,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  ![Uploading xraygrouplogo.png…]()
+  ![xraygrouplogo](https://github.com/WikGroup/NuSTAR-Code/assets/38116794/a53eb62a-ae68-4b4f-aa05-250a3c444608)
   <img src="images/grouplogo.png" width="80" height="80">
   </a>
 
