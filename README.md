@@ -20,7 +20,8 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+[![Contributors][contributors-shield]][contributors-url]![xraygrouplogo](https://github.com/WikGroup/NuSTAR-Code/assets/38116794/7bc61e90-08cc-496f-a8ff-8b0bdd9b57bd)
+
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -32,8 +33,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/WikGroup/NuSTAR-Code/blob/main/grouplogo.png">
-    <img src="images/grouplogo.png" width="80" height="80">
+  ![Uploading xraygrouplogo.png…]()
+  <img src="images/grouplogo.png" width="80" height="80">
   </a>
 
 <h3 align="center">Galaxy Cluster Analysis Tools</h3>
