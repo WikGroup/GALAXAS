@@ -61,7 +61,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      afsasfa
       <ul> 
         <li><a href="#built-with">Built With</a></li>
         
