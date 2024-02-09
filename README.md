@@ -32,10 +32,11 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
+<div style="text-align: center;">
+  <img width="100%" src="https://github.com/WikGroup/NuSTAR-Code/assets/38116794/a53eb62a-ae68-4b4f-aa05-250a3c444608">
   ![xraygrouplogo](https://github.com/WikGroup/NuSTAR-Code/assets/38116794/a53eb62a-ae68-4b4f-aa05-250a3c444608)
   
-  </p>
+  </div>
 
 <h3 align="center">Galaxy Cluster Analysis Tools</h3>
 
