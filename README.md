@@ -33,8 +33,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div style="text-align: center;">
-  <img width="100%" src="https://github.com/WikGroup/NuSTAR-Code/assets/38116794/a53eb62a-ae68-4b4f-aa05-250a3c444608">
-  ![xraygrouplogo](https://github.com/WikGroup/NuSTAR-Code/assets/38116794/a53eb62a-ae68-4b4f-aa05-250a3c444608)
+  <img width="25%" src="https://github.com/WikGroup/NuSTAR-Code/assets/38116794/a53eb62a-ae68-4b4f-aa05-250a3c444608">
+  
   
   </div>
 
