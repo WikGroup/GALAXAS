@@ -88,7 +88,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-The goal of this project is to combine all useful NuSTAR analysis tools into one program for ease of use. It is currently in the early development stages.
+The goal of this project is to combine all useful NuSTAR analysis tools into one program for ease of use. It is currently in the early development stages. In the meantime, indiviual scripts for different tools will be posted here for use.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
