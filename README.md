@@ -22,10 +22,10 @@
 -->
 [![Contributors][contributors-shield]][contributors-url]
 <!-- ![xraygrouplogo](https://github.com/WikGroup/NuSTAR-Code/assets/38116794/7bc61e90-08cc-496f-a8ff-8b0bdd9b57bd) Can put the group logo up after [contributors-url] --> 
-[![Forks][forks-shield]][forks-url]
+<!--[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![Issues][issues-shield]][issues-url]-->
+[![MIT License][license-shield]][https://github.com/WikGroup/NuSTAR-Code/tree/main?tab=MIT-1-ov-file#readme]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
