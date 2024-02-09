@@ -197,7 +197,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - rrojasbo94@gmail.com@rrojasbo94@gmail.com_client.com
+Randall Rojas Bolivar -  - rrojasbo94@gmail.com
 
 Project Link: [https://github.com/rrojasbo/NuSTAR-Code](https://github.com/rrojasbo/NuSTAR-Code)
 
