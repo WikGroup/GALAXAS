@@ -227,7 +227,7 @@ Project Link: [https://github.com/rrojasbo/NuSTAR-Code](https://github.com/rroja
 [stars-url]: https://github.com/rrojasbo/NuSTAR-Code/stargazers
 [issues-shield]: https://img.shields.io/github/issues/rrojasbo/NuSTAR-Code.svg?style=for-the-badge
 [issues-url]: https://github.com/rrojasbo/NuSTAR-Code/issues
-[license-shield]: https://img.shields.io/github/license/rrojasbo/NuSTAR-Code.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/WikGroup/NuSTAR-Code?tab=MIT-1-ov-file#readme
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/randall-rojas-bolivar
