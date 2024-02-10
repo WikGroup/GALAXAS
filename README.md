@@ -88,7 +88,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-The goal of this project is to combine all useful NuSTAR analysis tools into one program for ease of use. It is currently in the early development stages. In the meantime, indiviual scripts for different tools will be posted here for use.
+The goal of GALAXAS (GALAxy Cluster X-ray Analysis Software, in keeping with the convuluted acronym convention in astronomy) is to combine all useful galaxy cluster analysis tools into one program for ease of use. It is currently in the early development stages with no set release date. This project is open source, so if you have any code, big or small, that might make another astronomer save some time please do share!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
