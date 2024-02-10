@@ -156,8 +156,10 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 - [x] Menu
 - [ ] GUI
-- [ ] Database Access
-    - [ ] Use parameters to make plots
+- [ ] NED/Simbad database integration
+    - [ ] Be able to use parameters from databases within the program
+- [ ] XSPEC integration
+- [ ] NUSTARDAS integration
 
 See the [open issues](https://github.com/rrojasbo/GALAXAS/issues) for a full list of proposed features (and known issues).
 
