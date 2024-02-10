@@ -216,7 +216,7 @@ Project Link: [https://github.com/rrojasbo/GALAXAS](https://github.com/rrojasbo/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/WikGroup/GALAXAS
+[contributors-shield]: https://img.shields.io/github/contributors/WikGroup/GALAXAS.svg?style-for-the-badge
 [contributors-url]: https://github.com/WikGroup/GALAXAS/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/rrojasbo/GALAXAS.svg?style=for-the-badge
 [forks-url]: https://github.com/rrojasbo/GALAXAS/network/members
