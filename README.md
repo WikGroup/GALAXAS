@@ -34,7 +34,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="galaxaslogo.png" alt="Logo" width="175" height="150">
+  <img src="galaxaslogo.png" alt="Logo" width="250" height="150">
   </a>
 
 <h3 align="center">Galaxy Cluster X-ray Analysis Software</h3>
