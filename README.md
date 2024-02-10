@@ -1,4 +1,4 @@
-# NuSTAR-Code
+# GALAXAS
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
@@ -37,7 +37,7 @@
   <img src="grouplogo.png" alt="Logo" width="175" height="150">
   </a>
 
-<h3 align="center">Galaxy Cluster Analysis Tools</h3>
+<h3 align="center">Galaxy Cluster X-ray Analysis Software</h3>
 
   <p align="center">
     A suite of tools that can be used to analyze NuSTAR galaxy cluster data.
