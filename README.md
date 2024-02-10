@@ -24,7 +24,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- ![xraygrouplogo](https://github.com/WikGroup/NuSTAR-Code/assets/38116794/7bc61e90-08cc-496f-a8ff-8b0bdd9b57bd) Can put the group logo up after [contributors-url] --> 
+<!-- ![xraygrouplogo](https://github.com/WikGroup/GALAXAS/assets/38116794/7bc61e90-08cc-496f-a8ff-8b0bdd9b57bd) Can put the group logo up after [contributors-url] --> 
 <!--[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]-->
@@ -42,14 +42,14 @@
   <p align="center">
     A suite of tools that can be used to analyze X-ray galaxy cluster data.
     <br />
-    <a href="https://github.com/rrojasbo/NuSTAR-Code"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/rrojasbo/GALAXAS"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/rrojasbo/NuSTAR-Code">View Demo</a>
+    <a href="https://github.com/rrojasbo/GALAXAS">View Demo</a>
     ·
-    <a href="https://github.com/rrojasbo/NuSTAR-Code/issues">Report Bug</a>
+    <a href="https://github.com/rrojasbo/GALAXAS/issues">Report Bug</a>
     ·
-    <a href="https://github.com/rrojasbo/NuSTAR-Code/issues">Request Feature</a>
+    <a href="https://github.com/rrojasbo/GALAXAS/issues">Request Feature</a>
   </p>
 </div>
 
@@ -124,7 +124,7 @@ To get a local copy up and running follow these simple example steps. -->
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/rrojasbo/NuSTAR-Code.git
+   git clone https://github.com/rrojasbo/GALAXAS.git
    ```
 3. Install NPM packages
    ```sh
@@ -159,7 +159,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Database Access
     - [ ] Use parameters to make plots
 
-See the [open issues](https://github.com/rrojasbo/NuSTAR-Code/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/rrojasbo/GALAXAS/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -197,7 +197,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Randall Rojas Bolivar -  - rrojasbo94@gmail.com
 
-Project Link: [https://github.com/rrojasbo/NuSTAR-Code](https://github.com/rrojasbo/NuSTAR-Code)
+Project Link: [https://github.com/rrojasbo/GALAXAS](https://github.com/rrojasbo/GALAXAS)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -218,14 +218,14 @@ Project Link: [https://github.com/rrojasbo/NuSTAR-Code](https://github.com/rroja
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/rrojasbo/GALAXAS.svg?style=for-the-badge
 [contributors-url]: https://github.com/WikGroup/GALAXAS/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/rrojasbo/NuSTAR-Code.svg?style=for-the-badge
-[forks-url]: https://github.com/rrojasbo/NuSTAR-Code/network/members
-[stars-shield]: https://img.shields.io/github/stars/rrojasbo/NuSTAR-Code.svg?style=for-the-badge
-[stars-url]: https://github.com/rrojasbo/NuSTAR-Code/stargazers
-[issues-shield]: https://img.shields.io/github/issues/rrojasbo/NuSTAR-Code.svg?style=for-the-badge
-[issues-url]: https://github.com/rrojasbo/NuSTAR-Code/issues
+[forks-shield]: https://img.shields.io/github/forks/rrojasbo/GALAXAS.svg?style=for-the-badge
+[forks-url]: https://github.com/rrojasbo/GALAXAS/network/members
+[stars-shield]: https://img.shields.io/github/stars/rrojasbo/GALAXAS.svg?style=for-the-badge
+[stars-url]: https://github.com/rrojasbo/GALAXAS/stargazers
+[issues-shield]: https://img.shields.io/github/issues/rrojasbo/GALAXAS.svg?style=for-the-badge
+[issues-url]: https://github.com/rrojasbo/GALAXAS/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/WikGroup/NuSTAR-Code?tab=MIT-1-ov-file#readme
+[license-url]: https://github.com/WikGroup/GALAXAS?tab=MIT-1-ov-file#readme
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/randall-rojas-bolivar
 [product-screenshot]: images/screenshot.png
