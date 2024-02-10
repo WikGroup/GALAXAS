@@ -40,7 +40,7 @@
 <h3 align="center">Galaxy Cluster X-ray Analysis Software</h3>
 
   <p align="center">
-    A suite of tools that can be used to analyze NuSTAR galaxy cluster data.
+    A suite of tools that can be used to analyze X-ray galaxy cluster data.
     <br />
     <a href="https://github.com/rrojasbo/NuSTAR-Code"><strong>Explore the docs »</strong></a>
     <br />
