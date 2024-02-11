@@ -154,12 +154,17 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] Menu
 - [ ] GUI
+    - [x] Loading Screen
+    - [ ] Menu
+    - [ ] Integrated real time plotting
+    - [ ] Settings
+- [ ] Inverse Compton flux calculator
 - [ ] NED/Simbad database integration
     - [ ] Be able to use parameters from databases within the program
 - [ ] XSPEC integration
 - [ ] NUSTARDAS integration
+- [ ] NuSTAR proposal tools
 
 See the [open issues](https://github.com/rrojasbo/GALAXAS/issues) for a full list of proposed features (and known issues).
 
