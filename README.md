@@ -161,6 +161,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
     - [ ] Settings
 - [ ] Inverse Compton flux calculator
 - [x] arXiv integration
+    - [x] Search for papers
     - [x] Download papers
 - [ ] HEASARC database integration
 - [ ] NED/Simbad database integration
